@@ -1,4 +1,4 @@
-# Embedded-System-Design
+# Automotive-Buzzer-and-Light-Control
 A demonstration of Diagrams related to Embedded Systems Static and Dynamic Design Concepts
 
 The system used for illustration consists of 2 microcontrollers communicating with each other using CAN protocol,
